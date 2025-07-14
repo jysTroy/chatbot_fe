@@ -27,3 +27,5 @@ AI 챗봇 대화 시스템
   - GiRobotGolem(챗봇), CgUserlane(사용자) 아이콘을 메시지 앞에 표시
   - 응답 대기 중에는 loading.gif 이미지를 중앙에 출력
   - useEffect를 통해 메시지가 추가될 때 자동 스크롤 처리
+  - 
+<img width="471" height="616" alt="image" src="https://github.com/user-attachments/assets/bd22ff4f-880f-4443-8410-93da01e86094" />
